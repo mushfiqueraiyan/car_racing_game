@@ -15,7 +15,7 @@ ArrowLeft: false,
 ArrowRight: false,
 }
 let player = {
-speed: 5,
+speed: 1,
 score: 0,
 highScore: 0
 };
